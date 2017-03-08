@@ -2,8 +2,8 @@
 
 ##Warum wir git verwenden
 
-*teamfähig
-*backup
-*zurück zu einer neuen Version
+* teamfähig
+* backup
+* zurück zu einer neuen Version
 
 ## Nächster Kurs HTML
