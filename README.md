@@ -4,4 +4,4 @@
 
 *teamfähig
 *backup
-*zurück zu einer vorigen Version
+*zurück zu einer neuen Version
